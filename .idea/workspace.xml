@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="main" targetName="main" />
+      <config projectName="main" targetName="transformations" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a231200-823f-4468-8c70-99367444b703" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../elegant_objects/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elegant_objects/smart/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elegant_objects/smart/include/smart.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elegant_objects/smart/src/smart.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elegant_objects/smart/usage/usage.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../made/3rd.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/transformations.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/transformations.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/NN_samsung/hello_world.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../py/NN_samsung/hello_world.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-Debug-transformations" />
+  </component>
+  <component name="ProjectId" id="1glwQpysbG7LIQInKEDtjOKr3RG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../COCK-AND-BALL" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="CMake Application.main">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="main" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="main" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="transformations" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="main" TARGET_NAME="transformations" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.main" />
+      <item itemvalue="CMake Application.transformations" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a231200-823f-4468-8c70-99367444b703" name="Default Changelist" comment="" />
+      <created>1598702474057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598702474057</updated>
+      <workItem from="1598702476810" duration="5406000" />
+      <workItem from="1598782058907" duration="3985000" />
+      <workItem from="1598787077822" duration="5998000" />
+      <workItem from="1598879129724" duration="867000" />
+      <workItem from="1599225728253" duration="230000" />
+      <workItem from="1599497029920" duration="20953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="727" y="171" width="523" height="762" key="#com.intellij.ide.util.MemberChooser" timestamp="1599506595515">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="727" y="171" width="523" height="762" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1599506595515" />
+    <state x="723" y="253" width="530" height="598" key="FileChooserDialogImpl" timestamp="1599225961171">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="723" y="253" width="530" height="598" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1599225961171" />
+    <state width="1793" height="224" key="GridCell.Tab.0.bottom" timestamp="1599518895026">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1793" height="224" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1599518895026" />
+    <state width="1793" height="224" key="GridCell.Tab.0.center" timestamp="1599518895024">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1793" height="224" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1599518895024" />
+    <state width="1793" height="224" key="GridCell.Tab.0.left" timestamp="1599518895023">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1793" height="224" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1599518895023" />
+    <state width="1793" height="224" key="GridCell.Tab.0.right" timestamp="1599518895024">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1793" height="224" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1599518895024" />
+    <state width="1793" height="325" key="GridCell.Tab.1.bottom" timestamp="1599512770046">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1793" height="325" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1599512770045" />
+    <state width="1793" height="325" key="GridCell.Tab.1.center" timestamp="1599512770036">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1793" height="325" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1599512770036" />
+    <state width="1793" height="325" key="GridCell.Tab.1.left" timestamp="1599512770028">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1793" height="325" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1599512770028" />
+    <state width="1793" height="325" key="GridCell.Tab.1.right" timestamp="1599512770044">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1793" height="325" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1599512770044" />
+    <state x="743" y="65" width="491" height="974" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599509464154">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="743" y="65" width="491" height="974" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1599509464154" />
+    <state x="708" y="448" width="561" height="208" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599504744965">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="708" y="448" width="561" height="208" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1599504744965" />
+    <state x="573" y="249" key="run.anything.popup" timestamp="1599498778150">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="573" y="249" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1599498778150" />
+    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1598788977907">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1598788977907" />
+  </component>
+</project>

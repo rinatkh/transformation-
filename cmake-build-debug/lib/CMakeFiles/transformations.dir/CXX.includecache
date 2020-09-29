@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kira/Projects/code_learn/cpp/renat/lib/radian_degree.h
+
+/home/kira/Projects/code_learn/cpp/renat/lib/transformations.cpp
+transformations.h
+/home/kira/Projects/code_learn/cpp/renat/lib/transformations.h
+cmath
+-
+utility
+-
+
+/home/kira/Projects/code_learn/cpp/renat/lib/transformations.h
+radian_degree.h
+/home/kira/Projects/code_learn/cpp/renat/lib/radian_degree.h
+array
+-
+string
+-
+

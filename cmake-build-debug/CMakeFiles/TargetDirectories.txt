@@ -1,0 +1,6 @@
+/home/kira/Projects/code_learn/cpp/renat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kira/Projects/code_learn/cpp/renat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kira/Projects/code_learn/cpp/renat/cmake-build-debug/CMakeFiles/main.dir
+/home/kira/Projects/code_learn/cpp/renat/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+/home/kira/Projects/code_learn/cpp/renat/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+/home/kira/Projects/code_learn/cpp/renat/cmake-build-debug/lib/CMakeFiles/transformations.dir

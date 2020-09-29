@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/renat.dir/main.cpp.o  -o renat 
